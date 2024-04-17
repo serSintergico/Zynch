@@ -1,0 +1,26 @@
+{
+  "name": "zynch",
+  "version": "1.0.0",
+  "description": "Pruebas tecnicas: Leonardo Parra Davila",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serSintergico/Zynch.git"
+  },
+  "author": "Leonardo Parra Davila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serSintergico/Zynch/issues"
+  },
+  "homepage": "https://github.com/serSintergico/Zynch#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2"
+  }
+}
